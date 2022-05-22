@@ -38,6 +38,6 @@ class CheckingTheDefaultFeedSettingsTest {
             )
         )
             .perform(ViewActions.click())
-//        SettingsActivitys
+//        SettingsActivityss
     }
 }
